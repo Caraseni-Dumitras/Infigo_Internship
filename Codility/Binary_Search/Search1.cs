@@ -1,4 +1,4 @@
-namespace Codility;
+namespace Binary_Search;
 
 public static class Search1
 {

@@ -1,4 +1,4 @@
-namespace Codility;
+namespace Binary_Search;
 
 public static class Search3
 {
@@ -8,7 +8,12 @@ public static class Search3
         var min = 0;
         var max = nums.Count();
         var mid = max / 2;
-
+        
+        if(nums.Count() == 0)
+        {
+            return index;
+        }
+        
         while(min < max)
         {
 

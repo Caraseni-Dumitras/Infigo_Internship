@@ -1,4 +1,4 @@
-﻿using Codility;
+﻿using Binary_Search;
 
 class Program
 {
@@ -6,7 +6,6 @@ class Program
     {
         int[] nums = {-1,0,3,5,6,9,12}; 
         int target = 7;
-
         var result = Search1.SearchMethod(nums, target); 
         var result2 = Search2.SearchMethod2(nums, target);
         var result3 = Search3.SearchMethod3(nums, target);
