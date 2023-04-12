@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstBadVersion", "FirstBad
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search Insert Position", "Search Insert Position\Search Insert Position.csproj", "{2D5ECF87-C651-4B2E-B784-DA6C5F49D051}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresOfASortedArray", "SquaresOfASortedArray\SquaresOfASortedArray.csproj", "{ED6657CA-F8EB-498F-B494-4564D27DF0AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{2D5ECF87-C651-4B2E-B784-DA6C5F49D051}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D5ECF87-C651-4B2E-B784-DA6C5F49D051}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D5ECF87-C651-4B2E-B784-DA6C5F49D051}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED6657CA-F8EB-498F-B494-4564D27DF0AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED6657CA-F8EB-498F-B494-4564D27DF0AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED6657CA-F8EB-498F-B494-4564D27DF0AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED6657CA-F8EB-498F-B494-4564D27DF0AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
