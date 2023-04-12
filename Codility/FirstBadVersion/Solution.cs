@@ -17,7 +17,7 @@ public class Solution : VersionControl
             {
                 break;
             }
-            var mid = left + (n-left) / 2;
+            var mid = (n + left) / 2;
             if(IsBadVersion(mid))
             {
                 n = mid;

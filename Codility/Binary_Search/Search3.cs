@@ -6,10 +6,10 @@ public static class Search3
     {
         int index = -1;
         var min = 0;
-        var max = nums.Count();
+        var max = nums.Length;
         var mid = max / 2;
         
-        if(nums.Count() == 0)
+        if(nums.Length == 0)
         {
             return index;
         }
