@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresOfASortedArray", "Sq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "RotateArray\RotateArray.csproj", "{FFFE9C88-904F-406D-A69B-81500F4D91CF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoveZeroes", "MoveZeroes\MoveZeroes.csproj", "{A4FAD36C-84A7-472D-9E27-A501346F80A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{FFFE9C88-904F-406D-A69B-81500F4D91CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FFFE9C88-904F-406D-A69B-81500F4D91CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FFFE9C88-904F-406D-A69B-81500F4D91CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4FAD36C-84A7-472D-9E27-A501346F80A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FAD36C-84A7-472D-9E27-A501346F80A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FAD36C-84A7-472D-9E27-A501346F80A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FAD36C-84A7-472D-9E27-A501346F80A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
